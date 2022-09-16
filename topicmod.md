@@ -9,7 +9,7 @@
 4. Extract the Jim Crow laws.
   - If you have a **Mac**, simply double click on the zip file to extract it.
   - If you have a **PC**, right click on the zip file and select "Extract All..." then click "Extract".
-5. Download the [stoplist](https://github.com/UNC-Libraries-data/Intro-to-Text-Analysis/raw/master/stoplist.txt) to your **DESKTOP FOLDER**.
+5. **Right-click** on the following link and select **Save As**. Save it to your **DESKTOP FOLDER**: [stoplist](https://github.com/UNC-Libraries-data/Intro-to-Text-Analysis/raw/master/stoplist.txt).
 
 ## During the Workshop Topic Modeling Exercise
 1. Open the Topic Modeling Tool
@@ -21,7 +21,9 @@
 4. Click on **otb_jc_txt_single** and **Open**.
 5. Click on **Output Dir...** and make sure it's set to the **same Desktop folder as your Input Dir**.
 6. Next to **Number of topics**, type **5**.
-7. Click on **Optional Settings**
-8. Next to **Number of topic words to print**, type **10**.
-9. Click on **Ok**.
-10. Click on **Learn Topics**.
+7. Click on **Optional Settings**.
+8. Click on **Stopword File...**.
+9. Find the **stoplist.txt** file you downloaded and click **Open**.
+10. Next to **Number of topic words to print**, type **10**.
+11. Click on **Ok**.
+12. Click on **Learn Topics**.
